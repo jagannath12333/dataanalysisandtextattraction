@@ -1,7 +1,4 @@
-# dataanalysisandtextattraction
-Sure, here's a concise description under 350 characters:  ---  # Data Extraction &amp; Text Analysis  Extracts artiCertainly! Here's a description you can use to upload the code to GitHub:
 
----
 
 # Data Extraction and Text Analysis
 
